@@ -15,6 +15,3 @@ resource "aws_subnet" "dev"{
 }
 
 
-   
-  
-}
