@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  plan:
-    name: Terraform Plan
+ my_plan:
+    name: Terraform deploy
     runs-on: ubuntu-latest
 
     env:
