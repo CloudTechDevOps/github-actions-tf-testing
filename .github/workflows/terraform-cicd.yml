@@ -32,7 +32,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  my_plan:
+  plan:
     name: Terraform deploy
     runs-on: ubuntu-latest
 
